@@ -1,22 +1,22 @@
 ## You should change each of the following fields
 ## to customize your blog
 
-title: Stat 386 Blog
-description: "This description of the blog will appear on the 'About' page." 
-author: Your name
-author_description: "This description of who you are will appear on the 'About' page." 
+title: "The Best Stats Blog You'll Ever Find"
+description: "This is a place for me to blog about stats and make sure I get a good grade in stat 386" 
+author: Jessa Halversen
+author_description: "I am an Applied Statistics and Analytics student at BYU" 
 
-url: https://esnt.github.io ## change this to https://yourusername.github.io
-baseurl: /another-stat386-theme ## change this to the name of your blog repository
+url: https://jessahal.github.io ## change this to https://yourusername.github.io
+baseurl: /blog ## change this to the name of your blog repository
 header_image: /assets/img/headerimg.jpg ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
-    github:  ## required
+    github:  jessahal
     twitter: 
     facebook: 
     email: 
-    linkedin: 
+    linkedin: jessa-halversen
     youtube: 
     tumblr: 
     website: 
