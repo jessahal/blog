@@ -2,9 +2,9 @@
 ## to customize your blog
 
 title: "The Best Stats Blog You'll Ever Find"
-description: "This is a place for me to blog about stats and make sure I get a good grade in stat 386" 
+description: "This started as a place for me to blog about stats in order to get a good grade in my classes, but now it's a place for me to share some fo the things I've learned in my journey as a stats major!" 
 author: Jessa Halversen
-author_description: "I am an Applied Statistics and Analytics student at BYU who's just tryin to graduate :)" 
+author_description: "I'm an Applied Statistics and Analytics major from BYU (Go Cougs)! The reason I fell in love with statistics is because I realized how powerful and important data can be in every aspect of our lives. I love problem solving and finding ways to use data analysis to optimize different processes and find new solutions. " 
 
 url: https://jessahal.github.io ## change this to https://yourusername.github.io
 baseurl: /blog ## change this to the name of your blog repository
